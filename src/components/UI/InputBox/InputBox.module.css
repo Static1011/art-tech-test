@@ -1,0 +1,11 @@
+.inputBox {
+  position: relative;
+  margin-top: 20px;
+  width: 100%;
+}
+
+label {
+  position: absolute;
+  top: -20px;
+  padding: 0 5px;
+}/*# sourceMappingURL=InputBox.module.css.map */

@@ -1,0 +1,21 @@
+:root {
+  --main-font-color: #535353;
+  --additional-color: #168074;
+  --fs-xs: 12px;
+  --fs-s: 14px;
+  --fs-m: 16px;
+  --fs-l: 20px;
+  --fs-xl: 24px;
+  --fw-bold: 500;
+  --fw-extra-bold: 700;
+}
+
+html,
+body {
+  color: var(--main-font-color);
+  font: var(--fs-s) "Open Sans", sans-serif;
+}
+
+.App {
+  height: 100dvh;
+}/*# sourceMappingURL=App.css.map */
